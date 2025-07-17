@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwilioOutboundCallDemo", "TwilioOutboundCallDemo\TwilioOutboundCallDemo.csproj", "{FF91DBA7-6EB7-42CA-8BDD-7BB02DD4B437}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF91DBA7-6EB7-42CA-8BDD-7BB02DD4B437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF91DBA7-6EB7-42CA-8BDD-7BB02DD4B437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF91DBA7-6EB7-42CA-8BDD-7BB02DD4B437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF91DBA7-6EB7-42CA-8BDD-7BB02DD4B437}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09DB902D-0FBB-4D35-A7BC-31F3ED75B969}
+	EndGlobalSection
+EndGlobal
